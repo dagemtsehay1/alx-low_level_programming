@@ -1,0 +1,2 @@
+#!/bin/bash
+-S $CFILE -o ./${CFILE//'.c'/'.s'}
