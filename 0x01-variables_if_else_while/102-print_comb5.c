@@ -21,7 +21,7 @@ int main(void)
       putchar (32);
       if (i == 57 && x != 57)
 	{
-	  i = 48;
+	  i = 47;
 	  x += 1;
 	}
     }
