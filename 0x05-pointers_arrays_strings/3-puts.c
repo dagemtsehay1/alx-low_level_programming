@@ -2,6 +2,7 @@
 /**
  * _puts - main
  * @str: pointer
+ * Return: no return
  */
 
 void _puts(char *str)
