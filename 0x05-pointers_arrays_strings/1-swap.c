@@ -1,8 +1,9 @@
 #include "holberton.h"
 /**
- * Swap_int - swap two numbers
+ * swap_int - swap two numbers
  *
- * Returns: Always 0
+ * @a: pointer
+ * @b: pointer
  */
 void swap_int(int *a, int *b)
 {
