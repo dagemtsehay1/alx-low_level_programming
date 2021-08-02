@@ -1,3 +1,1 @@
-Pointers
-arrays and
-strings
+## Alx - Pointers / arrays / strings
