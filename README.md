@@ -24,6 +24,7 @@ This repository contains programs written for the low-level programming track at
   - [0x13-more_singly_linked_lists](https://github.com/dagemtsehay1/alx-low_level_programming/tree/main/0x13-more_singly_linked_lists)
   - [0x14-bit_manipulation](https://github.com/dagemtsehay1/alx-low_level_programming/tree/main/0x14-bit_manipulation)
   - [0x15-file_io](https://github.com/dagemtsehay1/alx-low_level_programming/tree/main/0x15-file_io)
+  - [0x17-doubly_linked_lists](https://github.com/dagemtsehay1/alx-low_level_programming/tree/main/0x17-doubly_linked_lists)
 
 
 ## Author 
